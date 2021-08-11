@@ -10,6 +10,7 @@ git:
 script:
   - yarn build
 notifications:
+  slack: travis-xlz2374:VbMjdPp3lq28CtUpytdPHLo9
   email:
     recipients:
     - gregoesme@gmail.com
